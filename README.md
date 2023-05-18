@@ -1,2 +1,2 @@
 # odin-recipes
-Project recipes
+- This repo is for a personal project named recipes.
